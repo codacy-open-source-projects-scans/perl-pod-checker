@@ -1,0 +1,14 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Pod-Checker
+version:      1.71
+version_from: 
+installdirs:  perl
+requires:
+    Cwd:                           0
+    File::Basename:                0
+    Pod::Simple:                   3.28
+    Test::More:                    0.6
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.30
